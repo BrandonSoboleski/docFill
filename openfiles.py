@@ -92,10 +92,3 @@ def editall(args):
     editrf3(args[0])
 
 
-#Testing   
-#editmtf("Gloria", "2/2/2022", "Has the Flu")
-#editrf3("Gloria")
-#editmmd("Gloria", "2/2/2022", "Has the Flu")
-#excelEdit()
-#def test():
-#    print("success")
